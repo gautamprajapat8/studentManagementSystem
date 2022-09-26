@@ -1,7 +1,7 @@
 # studentManagementSystem
 
 This is Student Management System where you can add student details and You also able to manage all Student 
-This Project given by [@Masai School](https://github.com/masai-course) during I learing HTML, CSS, JavaScript
+This Project given by [Masai School](https://github.com/masai-course) during I learning HTML, CSS, JavaScript
 It was individual project which is given by masai school built by me in 1 day
 
 ## Tech-Stack
